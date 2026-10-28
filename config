@@ -1,0 +1,4 @@
+[core]
+    no_scm = false
+[cache]
+    type = copy
